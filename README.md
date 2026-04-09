@@ -87,5 +87,5 @@ All three models achieve very high R² scores, with Linear and Ridge regression 
    ```bash
    jupyter notebook car_co2_regression_analysis.ipynb
    ```
-👤 Author
-Ankit Maurya
+ 👤 Author
+ Ankit Maurya
